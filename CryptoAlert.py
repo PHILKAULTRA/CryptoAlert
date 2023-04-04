@@ -2,8 +2,8 @@ import requests
 import time
 
 # Replace YOUR_BOT_TOKEN and YOUR_CHAT_ID with your actual values
-bot_token = "6005047242:AAFIT-FlS_0uU-BNj3BYpq1hDIzZXpj9Z5M"
-chat_id = "1098958486"
+bot_token = "YOUR_BOT_TOKEN"
+chat_id = "YOUR_CHAT_ID"
 
 # Fetch the top 20 cryptocurrencies by market capitalization from the CoinGecko API
 def fetch_top_20():
