@@ -1,5 +1,5 @@
 # CryptoAlert
-This is a python program that sends alerts about top 20 cryptos' values to your telegram bot
+This is a python program that sends alerts about top 20 cryptos' values to your telegram bot every minute
 
 Before running the script, you'll need to obtain a Telegram bot token and chat ID. Here are the steps to get them:
 
@@ -19,4 +19,4 @@ Before running the script, you'll need to obtain a Telegram bot token and chat I
 
 8 - Look for the "chat" object in the JSON response and find the "id" field. This is your chat ID.
 
-![alt text]([http://url/to/img.png](https://github.com/PHILKAULTRA/CryptoAlert/blob/main/Bot.png?raw=true))
+![alt text](https://github.com/PHILKAULTRA/CryptoAlert/blob/main/Bot.png?raw=true)
