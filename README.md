@@ -1,6 +1,9 @@
 # CryptoAlert
 This is a python program that sends alerts about top 20 cryptos' values to your telegram bot every minute
 
+
+
+
 Before running the script, you'll need to obtain a Telegram bot token and chat ID. Here are the steps to get them:
 
 1 - Open the Telegram app and search for the "BotFather" bot.
