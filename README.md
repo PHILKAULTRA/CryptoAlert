@@ -19,4 +19,4 @@ Before running the script, you'll need to obtain a Telegram bot token and chat I
 
 8 - Look for the "chat" object in the JSON response and find the "id" field. This is your chat ID.
 
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://github.com/PHILKAULTRA/CryptoAlert/blob/main/Bot.png?raw=true))
